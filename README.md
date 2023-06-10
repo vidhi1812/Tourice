@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Tourest** locally, run this command on your git bash:
 
-Linux and macOS:
+Linux and macos
 
 ```bash
 sudo git clone https://github.com/codewithsadee/tourest.git
